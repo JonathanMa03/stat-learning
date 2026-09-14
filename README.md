@@ -2,6 +2,7 @@
 
 A hands-on R repository for studying and implementing methods from: 
 - **The Elements of Statistical Learning: Data Mining, Inference, and Prediction** 
+
 — **An Introduction to Statistical Learning: with Applications in R** 
 
 ## Demos
@@ -29,10 +30,6 @@ The writeups are intended to document practical experiments and results rather t
 ---
 
 ## Topics
-
-### Free-Form Learning
-
-- Free-form learning of parameters and functions
 
 ### Regression
 
