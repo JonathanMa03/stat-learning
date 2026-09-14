@@ -3,7 +3,7 @@
 A hands-on R repository for studying and implementing methods from: 
 - **The Elements of Statistical Learning: Data Mining, Inference, and Prediction** 
 
-— **An Introduction to Statistical Learning: with Applications in R** 
+- **An Introduction to Statistical Learning: with Applications in R** 
 
 ## Demos
 
@@ -38,6 +38,7 @@ The writeups are intended to document practical experiments and results rather t
 - Subset Selection
 - Ridge Regression
 - Lasso Regression
+- Elastic Net Regression
 - Least Angle Regression
 - Principal Components Regression
 - Piecewise Linear Path Algorithms
@@ -49,6 +50,7 @@ The writeups are intended to document practical experiments and results rather t
 - Mixture Discriminant Analysis
 - Logistic Regression
 - Perceptron Learning Algorithm
+- Diagonal LDA
 
 ### SVMs and Flexible Discriminants
 
@@ -64,6 +66,7 @@ The writeups are intended to document practical experiments and results rather t
 - Nonparametric Logistic Regression
 - Multidimensional Splines
 - Wavelet Smoothing
+- Quadratic Regularization
 
 ### Kernel Smoothing Methods
 
@@ -72,9 +75,8 @@ The writeups are intended to document practical experiments and results rather t
 
 ### Assessment and Selection
 
-- Cross-Validation
-- K-Fold Cross-Validation
-- Bootstrap
+- Cross-Validation, LOOCV, KFCV
+- Bootstrapping
 
 ### Inference and Averaging
 
@@ -111,6 +113,7 @@ The writeups are intended to document practical experiments and results rather t
 - K-Means Clustering
 - K-Medoids Clustering
 - Gaussian Mixtures
+- Nearest Shrunken Centroids
 
 ### Unsupervised Learning
 
@@ -140,9 +143,6 @@ The writeups are intended to document practical experiments and results rather t
 ### Other Topics
 
 - Restricted Boltzmann Machines
-- Diagonal LDA
-- Quadratic Regularization
-- Nearest Shrunken Centroids
 - Fused Lasso for Functional Data
 - Classification with Inner Product Kernels and Pairwise Distances
 - Supervised Principal Components
